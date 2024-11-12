@@ -1,1194 +1,987 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731446625468 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731452525634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446628529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452528722 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446631586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452531788 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446634650 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452534873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446637708 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452537946 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446640766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452541013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446643837 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452556135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446646903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452559206 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446650052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452562271 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446653108 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452565340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446656197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452568414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446659267 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452571480 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446662322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452574535 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446665741 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452577598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446668799 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452592976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446671857 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452596047 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446674927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452599115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446677992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452602173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446681054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452605257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446684109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452608338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446687172 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452623451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446690231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452626512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446693298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452629582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446696377 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452644683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446699448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452647752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446702529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452650820 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446705601 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452653885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446708684 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452656957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446711749 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452660030 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446714826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452663088 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446717885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452666148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446720943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452669219 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446724013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452672288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446727087 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452675354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446730151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452678432 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446733207 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452681497 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446736274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452684572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446739336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452687637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446742397 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452690700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446745461 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452693769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446748526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452696840 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446751588 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452699910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446754659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452703004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446757720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452706070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446760794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452709138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446763859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452712203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446766915 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452715275 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446769983 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452718337 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446773047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452721394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446776119 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452724454 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446779176 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452727512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446782230 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452730576 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446785299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452733638 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446788368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452736698 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446791426 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452739764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446794484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452742818 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446797546 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452745892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446800610 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452748969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446803679 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452752026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446806737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452755082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446809797 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452758145 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446812854 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452761214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446815934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452764277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446819013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452767335 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446822093 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452770402 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446825165 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452773462 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446828235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452776536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446831300 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452779605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446834358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452782672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446837416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452785728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446840474 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452788786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446843537 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452791845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446846600 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452794920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446849668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452797984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446852757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452801044 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446855816 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452804139 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446858991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452807203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446862043 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452810267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446865198 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452813339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446868270 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452828452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446871336 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452831540 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446874397 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452834603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446877453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452837681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446880513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452840885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446883575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452843954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446886641 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452859050 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446889811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452862115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446892876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452865173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446895952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452868230 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446899026 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452871305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446902091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452874366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446905145 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452889459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446908208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452892527 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446911280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452895612 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446914344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452898677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446917416 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452901743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446920483 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452904807 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446923569 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452907875 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446926635 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452922969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446929710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452926034 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446932786 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452929100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446935840 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452932175 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446938899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452935252 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446942033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452938316 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446945099 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452941380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446948163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452944448 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446951227 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452947528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446954292 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452950587 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446957372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452953668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446960437 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452956739 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446963637 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452971850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446966689 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452974920 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446969811 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452977980 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446972868 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452981039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446976077 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731452996137 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446979146 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731452999200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446982205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453002260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446985265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453005325 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446988322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453008388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446991378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453011449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446994434 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453014508 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731446997492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453017760 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447000547 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453020889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447003628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453023957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447006704 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453027031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447009777 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453030110 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447012847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453033177 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447015920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453036258 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447018976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453039331 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447022044 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453042395 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447025098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453045474 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447028172 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453048532 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447031226 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453051595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447034278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453054678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447037334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453057748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447040414 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453060804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447043481 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453063879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447046545 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453067031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447049603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453070102 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447052661 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453073162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447055736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453076228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447058806 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453079286 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447061909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453082354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447064987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453085422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447068055 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453088484 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447071122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453091542 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447074185 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453094611 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447077253 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453097708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447080325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453100772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447083409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453103839 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447086482 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453106928 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447089565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453109994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447092639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453113068 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447095710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453116141 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447098767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453119221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447101841 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453122284 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447104907 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453125347 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447107995 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453128409 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447111052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731453131469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447114119 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447117199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447120281 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447123349 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447126409 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447129474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447132569 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447135700 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447138913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447141976 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447145103 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447148177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447151255 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447154322 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447157385 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447160439 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447163507 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447166571 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447169636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447172726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447175793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447178865 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447181959 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447185022 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447188104 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447191180 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447194251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447197394 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447200484 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447203560 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447206628 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447209702 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447212791 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447215858 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447218917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447221975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447225125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447228348 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447231406 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1731447234474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+remove-self.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
