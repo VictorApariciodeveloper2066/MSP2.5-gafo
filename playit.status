@@ -1186,3 +1186,9 @@ printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
 TUNNELS
 part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1731447234474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+part-julian.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+printer-immune.gl.at.ply.gg:3436 => 127.0.0.1:3436 (proto: Udp, port count: 1)
